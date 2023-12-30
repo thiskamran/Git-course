@@ -1,0 +1,8 @@
+# Ignore files with the extension .in
+*.in
+
+# Ignore files with the extension .out
+*.out
+
+# Ignore compiled Python files
+*.pyc
